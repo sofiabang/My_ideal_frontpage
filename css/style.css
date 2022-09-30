@@ -1,0 +1,28 @@
+body {
+    background-color: #F2F1F0;
+}
+header {
+    background-color: #171717;
+    height: 80px;
+    padding: 50px 0px 50px 50px;
+}
+h1 {
+    color:seashell;
+}
+h2 {
+    margin: 50px auto 50px auto;
+}
+p {
+    color: black;
+}
+.first-paragraph {
+    background-color: rgb(128, 120, 120);
+    height: 200px;
+    width: 500px;
+    padding: 50px;
+    margin: 50px auto 50px auto;
+}
+#second-paragraph {
+    background-color: rgb(128, 120, 120);
+    height: 200px;
+}
